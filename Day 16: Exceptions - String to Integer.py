@@ -6,9 +6,6 @@ import random
 import re
 import sys
 
-
-
-
 S = input().strip()
 
 try:
