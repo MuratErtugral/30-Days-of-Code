@@ -6,8 +6,6 @@ import random
 import re
 import sys
 
-
-
 if __name__ == '__main__':
     N = int(input().strip())
 if N % 2 == 1:
