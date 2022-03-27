@@ -36,3 +36,7 @@ for i in range(T):
     root=myTree.insert(root,data)
 height=myTree.getHeight(root)
 print(height)      
+
+
+
+
