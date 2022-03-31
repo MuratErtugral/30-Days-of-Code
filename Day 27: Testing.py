@@ -64,7 +64,12 @@ def TestiWithExactyTwoDifferentMinimums():
     result = minimum_index(seq)
     assert result == expected_result
 
+    
+    
 TestWithEmptyArray()
 TestWithUniqueValues()
 TestiWithExactyTwoDifferentMinimums()
 print("OK")
+
+
+
