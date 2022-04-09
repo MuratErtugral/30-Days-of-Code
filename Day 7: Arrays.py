@@ -13,3 +13,8 @@ if __name__ == '__main__':
 arr = reversed(arr)
 for m in arr:
     print(m ,end=" ")
+
+    
+    
+    
+    
