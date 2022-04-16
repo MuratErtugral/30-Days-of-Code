@@ -29,6 +29,3 @@ if __name__ == '__main__':
             result = max(result,count)
     
     print(result)
-    
-    
-    
