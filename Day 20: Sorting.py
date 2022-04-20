@@ -26,6 +26,3 @@ while a != sorted(a):
 print("Array is sorted in {} swaps.".format(swap))
 print("First Element: {}".format(a[0]))
 print("Last Element: {}".format(a[-1]))
-
-
-
