@@ -11,7 +11,3 @@ while T > 0:
             odd += S[m]
     print(even,odd)
     T -=1
-
-    
-    
-    
