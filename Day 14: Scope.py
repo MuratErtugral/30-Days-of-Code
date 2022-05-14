@@ -9,9 +9,6 @@ class Difference:
                  
         self.maximumDifference = y - x 
 
-	# Add your code here
-
-# End of Difference class
 
 _ = input()
 a = [int(e) for e in input().split(' ')]
@@ -20,3 +17,6 @@ d = Difference(a)
 d.computeDifference()
 
 print(d.maximumDifference)
+
+
+
