@@ -43,3 +43,6 @@ for i in range(T):
     head=mylist.insert(head,data)    
 head=mylist.removeDuplicates(head)
 mylist.display(head); 
+
+
+
