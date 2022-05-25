@@ -18,6 +18,3 @@ for _ in range(T):
         print("Prime")
     else:
         print("Not prime")
-
-        
-        
