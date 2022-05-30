@@ -1,20 +1,3 @@
-#!/bin/python3
-
-import math
-import os
-import random
-import re
-import sys
-
-#
-# Complete the 'bitwiseAnd' function below.
-#
-# The function is expected to return an INTEGER.
-# The function accepts following parameters:
-#  1. INTEGER N
-#  2. INTEGER K
-#
-
 def bitwiseAnd(N,K):
     # Write your code here
     maximum = 0
@@ -44,6 +27,5 @@ if __name__ == '__main__':
         fptr.write(str(res) + '\n')
 
     fptr.close()
-    
-    
+
     
