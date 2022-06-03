@@ -1,4 +1,3 @@
-
 if __name__ == '__main__':
     N = int(input().strip())
 if N % 2 == 1:
@@ -9,3 +8,7 @@ elif N % 2 ==0 and N>5 and N<21:
     print("Weird")
 elif N % 2 ==0 and N>21:
     print("Not Weird")
+
+    
+    
+
