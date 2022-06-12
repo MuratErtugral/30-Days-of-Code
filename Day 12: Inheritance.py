@@ -1,6 +1,4 @@
-
-
-        
+       
 class Student(Person):
   
     
@@ -34,3 +32,6 @@ class Student(Person):
         elif f < 40:
             return "T"
         
+
+        
+     
