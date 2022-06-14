@@ -17,6 +17,3 @@ d = Difference(a)
 d.computeDifference()
 
 print(d.maximumDifference)
-
-
-
