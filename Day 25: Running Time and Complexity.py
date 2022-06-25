@@ -1,4 +1,4 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+
 from math import sqrt
 
 T = int(input())
@@ -18,3 +18,6 @@ for _ in range(T):
         print("Prime")
     else:
         print("Not prime")
+
+        
+        
