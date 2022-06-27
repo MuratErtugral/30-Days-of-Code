@@ -70,3 +70,5 @@ TestWithEmptyArray()
 TestWithUniqueValues()
 TestiWithExactyTwoDifferentMinimums()
 print("OK")
+
+
