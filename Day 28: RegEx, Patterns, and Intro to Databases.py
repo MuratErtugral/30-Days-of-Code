@@ -1,3 +1,4 @@
+
 if __name__ == '__main__':
     N = int(input().strip())
     g = []
@@ -13,3 +14,6 @@ if __name__ == '__main__':
 g = sorted(g)
 for m in g:
     print (m)
+
+    
+    
