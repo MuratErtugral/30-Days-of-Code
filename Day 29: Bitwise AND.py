@@ -27,5 +27,3 @@ if __name__ == '__main__':
         fptr.write(str(res) + '\n')
 
     fptr.close()
-
-    
