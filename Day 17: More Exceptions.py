@@ -18,6 +18,10 @@ for i in range(T):
         print(e)
 
         
-        
+      
+
+
+
+  
         
         
