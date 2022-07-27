@@ -1,3 +1,4 @@
+
 def minimum_index(seq):
     if len(seq) == 0:
         raise ValueError("Cannot get the minimum value index from an empty sequence")
@@ -70,5 +71,3 @@ TestWithEmptyArray()
 TestWithUniqueValues()
 TestiWithExactyTwoDifferentMinimums()
 print("OK")
-
-
