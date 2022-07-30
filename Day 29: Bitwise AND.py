@@ -1,3 +1,4 @@
+
 def bitwiseAnd(N,K):
     # Write your code here
     maximum = 0
@@ -27,3 +28,7 @@ if __name__ == '__main__':
         fptr.write(str(res) + '\n')
 
     fptr.close()
+
+    
+    
+    
