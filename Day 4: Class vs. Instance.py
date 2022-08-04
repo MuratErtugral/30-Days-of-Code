@@ -1,3 +1,4 @@
+
 class Person:
     def __init__(self,initialAge):
         # Add some more code to run some checks on initialAge
@@ -17,7 +18,4 @@ class Person:
     def yearPasses(self):
         # Increment the age of the person in here
         self.age += 1
-        
-        
-        
         
