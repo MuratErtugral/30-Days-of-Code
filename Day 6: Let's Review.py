@@ -1,3 +1,4 @@
+
 T = int(input())
 
 while T > 0:
@@ -11,7 +12,3 @@ while T > 0:
             odd += S[m]
     print(even,odd)
     T -=1
-
-    
-    
-    
