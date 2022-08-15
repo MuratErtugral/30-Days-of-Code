@@ -1,3 +1,4 @@
+
 class Node:
     def __init__(self,data):
         self.data = data
@@ -27,4 +28,8 @@ head=None
 for i in range(T):
     data=int(input())
     head=mylist.insert(head,data)    
-mylist.display(head); 	  
+mylist.display(head); 
+
+
+
+
