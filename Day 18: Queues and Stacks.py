@@ -48,5 +48,3 @@ if isPalindrome:
 else:
     print("The word, "+s+", is not a palindrome.")
 
-
-
