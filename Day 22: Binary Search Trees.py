@@ -1,3 +1,4 @@
+
 class Node:
     def __init__(self,data):
         self.right=self.left=None
@@ -33,6 +34,8 @@ myTree=Solution()
 root=None
 for i in range(T):
     data=int(input())
+    
+    
     
     
     
