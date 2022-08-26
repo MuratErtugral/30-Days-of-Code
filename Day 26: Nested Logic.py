@@ -1,3 +1,4 @@
+
 n = input()
 x = list(map(int, n.split()))
 m = input()
@@ -12,6 +13,3 @@ elif y[2] == x[2]:
         z = 15*(x[0]-y[0])
 
 print(z)
-
-
-
