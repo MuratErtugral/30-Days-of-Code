@@ -7,6 +7,3 @@ print(a+i)
 print(b+d)
 print(s+c)
 
-
-
-
